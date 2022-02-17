@@ -1,0 +1,10 @@
+Lists and Tuples
+17.Challenge: Multiply all Elements in a List
+18.Print Elements on the Same Line Without Commas
+19.Get Max and Min Values
+20
+21
+22
+23
+24
+25

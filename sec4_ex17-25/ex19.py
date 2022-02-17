@@ -1,1 +1,1 @@
-seadfadf
+s = "aString"
