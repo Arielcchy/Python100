@@ -1,0 +1,10 @@
+Lists and Tuples
+17.Challenge: Multiply all Elements in a List
+18.Print Elements on the Same Line Without Commas
+19.Get Max and Min Values
+20.Check if List is Empty or Not
+21.Print the Elements and Their Indices
+22.Remove Matching Element
+23.Remove Duplicates from a List
+24.Count Elements Greater than 3
+25.Find the Intersection of Two Sets
