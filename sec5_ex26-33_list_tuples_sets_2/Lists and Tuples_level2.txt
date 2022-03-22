@@ -1,0 +1,10 @@
+Lists and Tuples - Level 2
+26.Difference Between Two Lists
+27.Distance Between Two 3D Points
+28.Print Common Elements in Two Lists
+29.Find the Second Largest Value in a List
+30.Find the Second Smallest Value in a List
+31.Make a Frequency Dictionary from the Elements of a List
+32.Flatten a List that Contains Lists
+33.Generate all Permutations of a List 
+
