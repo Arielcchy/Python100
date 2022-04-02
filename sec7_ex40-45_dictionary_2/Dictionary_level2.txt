@@ -1,0 +1,8 @@
+40.Find Frequency of Values in a Dictionary
+41.Make a Dictionary from Nested Lists
+42.Print the Max Sum of Values
+43.Make a Frequency Dictionary for the Characters in a String 
+44.Sort Lists in Ascending Order 
+45.Convert Dictionary into a List of Lists
+
+
